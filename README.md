@@ -17,8 +17,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS/ Django
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KalvenDebig)  
 
-![GitHub metrics](https://metrics.lecoq.io/KalvenDebig)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KalvenDebig)  
 
 ![Profile views](https://gpvc.arturio.dev/KalvenDebig)  
