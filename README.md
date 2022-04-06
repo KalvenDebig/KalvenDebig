@@ -2,6 +2,9 @@
 > Be water my friend. 👊  
 #### ![Be water my friend. 👊 ](https://c.tenor.com/wtFkA-UiAN4AAAAC/vaporwave.gif)
 
+#### :envelope: How to reach me:
+[![Linkedin](https://img.shields.io/badge/-KalvenDebig-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sijie-shen-97a28a207)
+
 #### :computer: Programming languages and tools: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
