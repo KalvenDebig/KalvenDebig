@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Kalven
 > Be water my friend. 👊  
-<code><img width="100%" src="https://c.tenor.com/wtFkA-UiAN4AAAAC/vaporwave.gif"></code>
+
+#### <code><img width="80%" src="https://c.tenor.com/wtFkA-UiAN4AAAAC/vaporwave.gif"></code>
 
 #### :envelope: How to reach me:
 [![Linkedin](https://img.shields.io/badge/-Sijie_Shen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sijie-shen-97a28a207)
