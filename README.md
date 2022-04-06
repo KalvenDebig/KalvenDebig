@@ -4,7 +4,7 @@
 
 #### :envelope: How to reach me:
 [![Linkedin](https://img.shields.io/badge/-Sijie_Shen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sijie-shen-97a28a207)
-
+[![Instagram](https://img.shields.io/badge/-Sijie_Shen-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kalvenrocknroll)
 #### :computer: Programming languages and tools: 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
