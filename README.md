@@ -30,21 +30,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/KalvenDebig)  
 
-```mermaid
-graph TB 
-
-A((10)) 
-B((5)) 
-C((15)) 
-D((null)) 
-E((null)) 
-F((null)) 
-G((20)) 
-A-->B 
-A-->C 
-B-->D 
-B-->E 
-C-->F 
-C-->G 
-```
 
