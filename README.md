@@ -22,7 +22,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-![KalvenDebig's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalvenDebig&layout=compact&hide_border=true&langs_count=10)
+<!-- ![KalvenDebig's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalvenDebig&layout=compact&hide_border=true&langs_count=10) -->
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KalvenDebig) -->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=KalvenDebig&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
