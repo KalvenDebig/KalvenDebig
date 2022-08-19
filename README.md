@@ -10,7 +10,7 @@
 
 #### :computer: Programming languages and tools: 
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KalvenDebig=compact&langs_count=8&exclude_repo=flash-experiments)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KalvenDebig=compact&langs_count=8)
 
 
 
