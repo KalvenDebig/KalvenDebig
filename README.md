@@ -8,10 +8,10 @@
 [![Instagram](https://img.shields.io/badge/-Sijie_Shen-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/kalvenrocknroll)
 [![Gmail](https://img.shields.io/badge/-Sijie_Shen-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shen.sij@northeastern.edu)
 
-#### :computer: Programming languages and tools: 
+<!-- #### :computer: Programming languages and tools: 
 <img align="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalvenDebig&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
-
+ -->
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
