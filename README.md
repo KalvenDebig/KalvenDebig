@@ -9,8 +9,7 @@
 [![Gmail](https://img.shields.io/badge/-Sijie_Shen-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shen.sij@northeastern.edu)
 
 #### :computer: Programming languages and tools: 
-
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KalvenDebig=compact&langs_count=8)
+<img align="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalvenDebig&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
 
