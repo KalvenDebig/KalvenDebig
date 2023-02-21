@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kalven
+### Hi there 👋
 > Open to hiring!
 
 <!-- #### <code><img width="80%" src="https://c.tenor.com/wtFkA-UiAN4AAAAC/vaporwave.gif"></code> -->
