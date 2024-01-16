@@ -22,8 +22,6 @@
 
 <!--  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KalvenDebig)   -->
 
-![Profile views](https://gpvc.arturio.dev/KalvenDebig)  
-
 
 <!-- The Arboretum at Penn State: This beautiful botanical garden covers 370 acres and features stunning landscapes, gardens, and walking paths. It's an ideal place for a leisurely stroll, enjoying nature, and finding peaceful spots to spend time together.
 
