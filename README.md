@@ -42,3 +42,30 @@ Whipple Dam State Park: This picturesque park is located near State College and 
 The Penn State Creamery: Indulge your sweet tooth with a visit to the famous Penn State Creamery, located on campus. You can enjoy a scoop (or two!) of delicious ice cream together, with a wide variety of flavors to choose from.
 
 Boal Mansion Museum: Situated in Boalsburg, just a short drive from Penn State, this historic house museum showcases the region's history. Explore the exhibits, take a guided tour, and learn about the local heritage together. -->
+
+<!--
+Software Engineer	June - September 2021
+Cookies Inc, Remote
+•	Developed auto-reply discord robot by using JavaScript and Discord development APIs.
+•	Launched project on AWS by using EC2, utilized MongoDB and Amazon DocumentDB for user activity database, AWS load balancer for handling huge number of requests.
+•	Designed and developed game information related backend APIs for backstage client use by using Java.
+
+Software Engineer	July 2020 - March 2021
+Pinkool Inc, Remote
+•	Used MySQL as project database for storing user related data, such as shopping cart, order details, order status, product details, and so on as well as Map Struct as DTO dependency.
+•	Used Spring Security, Sessions, Token Services for both customer and vendor login service.
+•	Decoupled different business services by using Kafka clusters and Zookeeper Map Struct, utilized Apache Avro for data serialization.
+•	Utilized Junit 5, and Mockito as test framework, test components, and function behaviors , rest apis response under different scenario covered 65% of our functions.
+
+•	Project
+Software Engineer
+AI Based Language Learning Application, Los Angeles, CA	February 2023 – Present
+•	Developed the front end by using Taro.js. Speeded up the development time by 30%.
+•	Developed middle stage platform to update content data and access keys for users by using Nest.js and React.js
+•	Designed and developed proxy service by using Nest.js to increase the service accessibility.
+•	Developed application backend service by using Nest.js and ProtoBuf by google for user language data serialization and kernel response deserialization.
+•	Utilized GraphQL for API development, fasten the process by 25%
+
+
+
+-->
