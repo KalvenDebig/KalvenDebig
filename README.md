@@ -66,5 +66,6 @@ AI Based Language Learning Application, Los Angeles, CA	February 2023 – Presen
 •	Developed application backend service by using c#, ASP dot net and ProtoBuf by google for user language data serialization and kernel response deserialization.
 •	Utilized GraphQL for API development, fasten the process by 25%
 
+https://neetcode.io/practice
 
 -->
