@@ -65,6 +65,10 @@ AI Based Language Learning Application, Los Angeles, CA	February 2023 – Presen
 •	Designed and developed proxy service by using Nest.js to increase the service accessibility.
 •	Developed application backend service by using c#, ASP dot net and ProtoBuf by google for user language data serialization and kernel response deserialization.
 •	Utilized GraphQL for API development, fasten the process by 25%
+https://leetcode.com/discuss/interview-question/5343977/Google-L3-Onsite-First-Round
+https://leetcode.com/discuss/interview-question/5359320/Google-L3-Onsite-Second-Round
+https://leetcode.com/discuss/interview-question/5369393/Google-Onsite-Final-Coding-Interview
+
 
 https://neetcode.io/practice
 https://leetcode.com/discuss/interview-question/5092478/Recent-Google-Interview-Questions-L3L4
