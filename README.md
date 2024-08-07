@@ -123,11 +123,10 @@ https://leetcode.com/discuss/interview-experience/2369115/Google-or-L4-or-India
 https://leetcode.com/discuss/interview-experience/2352261/Google-or-L4-or-India
 https://leetcode.com/discuss/interview-question/2784988/Google-recent-ref
 
-https://leetcode.com/problems/two-city-scheduling/
+
 https://leetcode.com/problems/odd-even-jump/
 https://leetcode.com/problems/last-day-where-you-can-still-cross/description/
 https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/
-https://leetcode.com/problems/employee-free-time/description/
 https://leetcode.com/problems/number-of-excellent-pairs/description/
 https://leetcode.com/problems/max-consecutive-ones-iii/description/
 https://leetcode.com/problems/finding-mk-average/description/
