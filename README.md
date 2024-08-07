@@ -65,12 +65,7 @@ AI Based Language Learning Application, Los Angeles, CA	February 2023 – Presen
 •	Designed and developed proxy service by using Nest.js to increase the service accessibility.
 •	Developed application backend service by using c#, ASP dot net and ProtoBuf by google for user language data serialization and kernel response deserialization.
 •	Utilized GraphQL for API development, fasten the process by 25%
-https://leetcode.com/discuss/interview-question/5343977/Google-L3-Onsite-First-Round
-https://leetcode.com/discuss/interview-question/5359320/Google-L3-Onsite-Second-Round
-https://leetcode.com/discuss/interview-question/5369393/Google-Onsite-Final-Coding-Interview
 
-
-https://neetcode.io/practice
 https://leetcode.com/discuss/interview-question/5092478/Recent-Google-Interview-Questions-L3L4
 https://leetcode.com/discuss/interview-question/5063427/google-onsite-round-2
 https://leetcode.com/discuss/interview-question/4820505/Google-question/
@@ -132,8 +127,6 @@ https://leetcode.com/problems/two-city-scheduling/
 https://leetcode.com/problems/odd-even-jump/
 https://leetcode.com/problems/last-day-where-you-can-still-cross/description/
 https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/
-https://leetcode.com/problems/maximal-rectangle/description/
-https://leetcode.com/problems/largest-rectangle-in-histogram/description/
 https://leetcode.com/problems/employee-free-time/description/
 https://leetcode.com/problems/number-of-excellent-pairs/description/
 https://leetcode.com/problems/max-consecutive-ones-iii/description/
