@@ -128,7 +128,6 @@ https://leetcode.com/problems/odd-even-jump/
 https://leetcode.com/problems/last-day-where-you-can-still-cross/description/
 https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/
 https://leetcode.com/problems/number-of-excellent-pairs/description/
-https://leetcode.com/problems/max-consecutive-ones-iii/description/
 https://leetcode.com/problems/finding-mk-average/description/
 https://leetcode.com/problems/range-module/description/
 14
